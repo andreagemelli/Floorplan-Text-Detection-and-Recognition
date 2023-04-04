@@ -8,7 +8,7 @@ We used two different networks to achieve this purpose (add these projects cloni
 * txt_recognition, a Convolutional Recurrent Neural Network (CRNN) in pytorch, and its code can be found
 [here](https://github.com/meijieru/crnn.pytorch)
 
-All the details of this works can be found in our paper.
+All the details of this works can be found in our <a href="https://drive.google.com/file/d/18L63UVQBivzCFA9xcP_imn7Hd6HP1Tws/view?usp=share_link">report</a>.
 
 ***
 
